@@ -24,27 +24,6 @@ _Cloud:_ <img height="20" src="https://raw.githubusercontent.com/github/explore/
 _Languages:_ <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
 
 <br>
-
-## 🎧 Music:
-
-I love listening to music and always enjoy dicovering new styles and genres!
-
-<img align="right" src='https://spotify-recently-played-readme.vercel.app/api?user=omnz0a5kmdliwk0vkscqekpsl&unique=1' height='350'>
-
-- DnB
-- Wave
-- Funk
-- Rock
-- Trap
-- Metal
-- House
-- Indie
-- HipHop
-- Techno
-- Electro
-- Ambient
-
-<br>
 <hr>
 <br>
 
